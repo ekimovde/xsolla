@@ -1,0 +1,19 @@
+{
+  "name": "xsolla-color-palette",
+  "version": "1.0.0",
+  "type": "module",
+  "homepage": "https://ekimovde.github.io/xsolla",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ekimovde/xsolla.git"
+  },
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "vite": "^5.0.0"
+  }
+}
